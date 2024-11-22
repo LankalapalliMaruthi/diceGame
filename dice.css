@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+   
+    margin: auto;
+    margin-top: 50px;
+    background-color:cadetblue;
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin:0 60px;
+}
+
+h1{
+    font-size: 4rem;
+    text-shadow: 5px 0px rgb(53, 50, 50);
+    color: green;
+    
+}
+p{
+    font-size: 2rem;
+    text-shadow: 3px 0px #232931;
+    color:greenyellow;
+}
